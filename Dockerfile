@@ -1,0 +1,1 @@
+FROM netboxcommunity/netbox:v3.5.7
